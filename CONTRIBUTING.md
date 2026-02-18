@@ -1,118 +1,39 @@
 # Contributing to SocialShareButton
 
-Thank you for your interest in contributing to **SocialShareButton**! 🚀  
-We welcome contributions from everyone.
+We are excited to welcome contributions from the community! To make the process smooth and efficient, please follow these guidelines:
 
-This document provides guidelines to help you contribute effectively and keep the project clean and maintainable.
+## How to Contribute
 
----
+1. **Fork the Repository**: Click on the "Fork" button in the upper right corner of this page to create a personal copy of the repository.
 
-## 📌 Ways to Contribute
+2. **Clone your Fork**: Open your terminal and clone your fork using:
+   ```sh
+   git clone https://github.com/<your-username>/SocialShareButton.git
+   ```
 
-You can contribute in many ways:
+3. **Create a New Branch**: Create a new branch for your feature or bug fix with:
+   ```sh
+   git checkout -b my-feature-branch
+   ```
 
-- 🐛 Fixing bugs
-- ✨ Adding new features
-- 📚 Improving documentation
-- 🎨 Enhancing UI/UX
-- ⚡ Optimizing performance
-- 🧪 Improving testing or code quality
+4. **Make Changes**: Edit files and make your enhancements.
 
----
+5. **Commit Your Changes**: After making your changes, commit them with a clear message describing what you have done:
+   ```sh
+   git commit -m "Add meaningful message here"
+   ```
 
-## 🚀 Getting Started
+6. **Push to Your Fork**: Push your changes to your fork:
+   ```sh
+   git push origin my-feature-branch
+   ```
 
-### 1️⃣ Fork the Repository
+7. **Open a Pull Request**: Go to the original repository on GitHub and click on the “New Pull Request” button. Follow the prompts to submit your pull request.
 
-Click the **Fork** button on the top-right of the repository page.
+## Code of Conduct
 
-Then clone your fork locally:
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md), and we expect all contributors to adhere to it.
 
-```bash
-git clone https://github.com/YOUR_USERNAME/SocialShareButton.git
-```
-### 2️⃣ Create a New Branch
+## Questions?
 
-#### Always create a new branch for your changes:
-
-#### git checkout -b feature/your-feature-name
-##### Examples:
-
-##### feature/add-linkedin-support
-##### fix/button-alignment-issue
-##### docs/update-readme
-
-### 3️⃣ Follow Project Standards
-
-###### Keep the project lightweight and dependency-free.
-
-###### Follow the existing code style.
-
-###### Avoid unnecessary libraries.
-
-###### Write clean, readable, and modular code.
-
-###### Do not break existing functionality.
-
-### 4️⃣ Test Your Changes
-
-##### Before submitting a Pull Request:
-
-##### Open index.html in your browser.
-
-##### Test all social share buttons.
-
-##### Ensure no console errors appear.
-
-##### Check responsiveness on different screen sizes.
-
-### 5️⃣ Commit Your Changes
-
-##### Use clear and meaningful commit messages.
-
-#### Format:
-
-###### type: short description
-
-
-##### Examples:
-
-feat: add Twitter share support
-fix: resolve mobile button spacing issue
-docs: improve README installation section
-
-### 6️⃣ Push and Open a Pull Request
-
-Push your branch:
-
-###### git push origin feature/your-feature-name
-
-
-Then open a Pull Request including:
-
-What changes were made
-
-Why the change is needed
-
-Screenshots (if UI changes)
-
-Any relevant issue reference
-
-#### 📋 Pull Request Guidelines
-
-Keep PRs small and focused.
-
-One feature or fix per PR.
-
-Avoid large unrelated changes.
-
-Ensure documentation is updated if needed.
-
-Be responsive to review feedback.
-
-#### 🤝 Code of Conduct
-
-#### Please be respectful and constructive in all communications.
-#### We aim to maintain a welcoming and collaborative environment.
-
-### Thank you for helping improve SocialShareButton! 🎉
+If you have any questions or feedback, please do not hesitate to reach out to the maintainers. We appreciate your contributions!
