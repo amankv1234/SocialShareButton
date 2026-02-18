@@ -8,9 +8,10 @@ We request that you do NOT create a public GitHub issue for security vulnerabili
 
 Instead, please report the issue privately by:
 
-- Contacting the maintainers via the official [Discord server](https://discord.gg/hjUhu33uAn)
-- Or reaching out to the organization maintainers directly
-
+Using GitHub's **[Private Vulnerability Reporting](../../security/advisories/new)** —
++  click "Report a vulnerability" under the [Security](../../security) tab of this repository.
++- For non-sensitive follow-up, you may also reach us on the
++  [Discord server](https://discord.gg/hjUhu33uAn).
 Please include the following information in your report:
 
 - Description of the vulnerability
@@ -33,6 +34,6 @@ We appreciate responsible disclosure and will:
 - Acknowledge your report
 - Investigate the issue promptly
 - Provide updates as needed
-- Credit you (if desired) after fixing the issue
+- Credit you (if desired) after resolve the issue
 
 Thank you for helping keep this project secure.
