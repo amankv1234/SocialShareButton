@@ -2,8 +2,13 @@
 
 ## Supported Versions
 
-Currently, the latest version available on the `main` branch is actively maintained.  
-Security updates will be applied to the latest stable version.
+The following versions of the project are currently supported with security updates:
+
+| Version | Supported |
+|---------|-----------|
+| main    | ✅ Yes |
+| older versions | ❌ No |
+
 
 ## Reporting a Vulnerability
 
@@ -35,5 +40,16 @@ Once a vulnerability report is received:
 3. A fix will be developed and tested.
 4. A security update will be released if necessary.
 5. Proper credit will be given for responsible disclosure (if desired).
+6. We aim to acknowledge vulnerability reports within 48 hours.
 
-Thank you for helping keep SocialShareButton secure and reliable.
+## Responsible Disclosure
+
+We kindly request that you:
+
+- Avoid publicly disclosing the vulnerability before a fix is released.
+- Provide sufficient time for investigation and remediation.
+- Act in good faith to avoid privacy violations or service disruption.
+
+We appreciate responsible security research and collaboration.
+
+Thank you for helping keep SocialShareButton secure and maintaining a safe experience for all users.
