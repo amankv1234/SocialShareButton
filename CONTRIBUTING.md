@@ -14,12 +14,12 @@ This document provides guidelines to help you contribute effectively and keep th
 
 ## 📋 Table of Contents
 
--  [Ways to Contribute](`#-ways-to-contribute`)
-- [Getting Started](`#-getting-started`)
-- [Pull Request Guidelines](`#-pull-request-guidelines`)
-- [Community Guidelines](`#-community-guidelines`)
-- [Getting Help](`#-getting-help`)
-- [Issue Assignment](`#-issue-assignment`)
+- [Ways to Contribute](#-ways-to-contribute)
+- [Getting Started](#-getting-started)
+- [Pull Request Guidelines](#-pull-request-guidelines)
+- [Community Guidelines](#-community-guidelines)
+- [Getting Help](#-getting-help)
+- [Issue Assignment](#-issue-assignment)
 
 ## 📌 Ways to Contribute
 
@@ -142,11 +142,6 @@ Push your branch:
 - [ ] Avoid large unrelated changes.
 - [ ] Ensure documentation is updated if needed.
 - [ ] Be responsive to review feedback.
-
-#### 🤝 Code of Conduct
-
-- Please be respectful and constructive in all communications.
-- We aim to maintain a welcoming and collaborative environment.
 
 ## 🌟 Community Guidelines
 
