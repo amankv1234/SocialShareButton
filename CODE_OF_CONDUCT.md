@@ -2,8 +2,9 @@
 
 ## Our Pledge
 
-We pledge to make participation in this project a harassment-free experience for everyone, regardless of background or experience level.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment include:
@@ -30,7 +31,7 @@ This Code of Conduct applies within all project spaces and public representation
 
 ## Reporting Guidelines
 
-Instances of unacceptable behavior may be reported to the project maintainers through official communication channels.
+Instances of unacceptable behavior may be reported by contacting the project maintainers at [INSERT CONTACT EMAIL].
 
 All complaints will be reviewed and investigated promptly and fairly.
 
